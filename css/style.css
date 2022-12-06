@@ -3,32 +3,45 @@
     /* margin: 0;
     padding: 0; */
 }
+.toboo{
+    height: 70px;
+    margin-left: 10px;
+    margin-top: 10px;
+    vertical-align: middle;
+    }
 .img{
     vertical-align: middle;
 }
 .header-title{
     display: inline-block;
     vertical-align: middle;
-    
 }
-.toboo{
-    height: 70px;
-    margin-left: 10px;
-    margin-top: 10px;
-    vertical-align: middle;
-   }
-/* .contain-big{
+.bg-main{
     height: auto;
     background-color: rgb(186, 186, 186);
-}   */
+} 
+.border-main{
+    border-radius: 10px;
+} 
+
+
+
 .contain{
-    margin: o, auto;
-    max-width: 1000px;
+    margin: 0 auto;
+    max-width: 600px;
+    background-color: white;
+    padding: 50px;
+}
+.sky{
+    background-color: aqua;
 }
 .forma{
     border: 5px hidden black;
     border-radius: 5px;
-    /* margin: 0,auto;
-    max-width: 500px; */
+    margin: 0,auto;
+    max-width: 500px;
+}
+ul{
+    list-style-type: none;
 }
     
