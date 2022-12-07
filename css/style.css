@@ -6,21 +6,21 @@
 .green{
     border-radius: 50%;
     border: 2px solid green;
-    color: black;
-    background-color: green;
+    color: green;
     text-align: center;
     height: 20px;
     width: 20px;
+    padding-left: 3px;
 
 }
 .red{
     border-radius: 50%;
     border: 2px solid red;
-    color: black;
-    background-color: red;
+    color: red;
     text-align: center;
     height: 20px;
     width: 20px;
+    padding-left: 3px;
 
 }
 .toboo{
